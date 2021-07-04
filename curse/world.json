@@ -1,0 +1,113 @@
+{
+  "name": "curse",
+  "title": "Klątwa Strahda",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-curse-spells",
+      "package": "world",
+      "path": "packs/ddb-curse-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-spells.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-curse-items",
+      "package": "world",
+      "path": "packs/ddb-curse-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-items.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-curse-class-features",
+      "package": "world",
+      "path": "packs/ddb-curse-class-features.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-class-features.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-curse-classes",
+      "package": "world",
+      "path": "packs/ddb-curse-classes.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-classes.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-curse-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-curse-racial-traits.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-racial-traits.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-curse-feats",
+      "package": "world",
+      "path": "packs/ddb-curse-feats.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-feats.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-curse-races",
+      "package": "world",
+      "path": "packs/ddb-curse-races.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-races.db",
+      "private": false
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-curse-monsters",
+      "package": "world",
+      "path": "packs/ddb-curse-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\rafal\\AppData\\Local\\FoundryVTT\\Data\\worlds\\curse\\packs\\ddb-curse-monsters.db",
+      "private": false
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-curse-override",
+      "package": "world",
+      "path": "packs/ddb-curse-override.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.7",
+  "nextSession": "2021-06-01T16:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false
+}

@@ -1,0 +1,14 @@
+{"name":"DDB Monsters","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"0CYY4YiZe6Yi3QvT"}
+{"name":"Items","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"6LbjewWNYRUdYakp"}
+{"name":"cos","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"FTCegPB3eWo4DaMv"}
+{"_id":"GdTTbx5C4sAzYwR5","name":"Valaki","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#282d76"}
+{"_id":"Ljmo2iIRm4GuV5wN","name":"encounter","type":"Scene","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#9a3232"}
+{"_id":"VpL2jFGK5PFjsAGd","name":"mapa","type":"Scene","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#5d2970"}
+{"_id":"fi2A6dSM7SPs8uVy","name":"BS","type":"Scene","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#27a8b9"}
+{"_id":"h6BcrS2EakXFFP2k","name":"argy","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#426754"}
+{"name":"CAstle","type":"Scene","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"iuLJ4lz9YzrUVLrz"}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"l6Iz9ucaqsSwNODf"}
+{"name":"Adventures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"m","_id":"pptqL7NdfOHD6Z41"}
+{"name":"Spells","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"rY99lcfHn4TS23rq"}
+{"name":"Flaming Sphere","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","_id":"wZ5kWFjGQQkCKQG1"}
+{"name":"Creatures","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","_id":"yBUNarf5O8HWYtKQ"}
